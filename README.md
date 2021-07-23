@@ -1,5 +1,5 @@
-# com
+# Competition
 
-# 记录比赛代码
+记录比赛代码
 
 
